@@ -5,3 +5,6 @@
 /.vs/slnx.sqlite
 /.vs/ProjectSettings.json
 /.vs/PI/v16/.suo
+/PI/.vs/PI/v16
+/PI/bin/Debug
+/PI/obj
