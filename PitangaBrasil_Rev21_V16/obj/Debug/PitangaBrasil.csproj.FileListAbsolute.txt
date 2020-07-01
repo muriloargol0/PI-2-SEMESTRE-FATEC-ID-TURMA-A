@@ -1,0 +1,123 @@
+C:\Users\carlo\source\repos\Guess_Who\bin\Debug\Guess_Who.exe.config
+C:\Users\carlo\source\repos\Guess_Who\bin\Debug\Guess_Who.exe
+C:\Users\carlo\source\repos\Guess_Who\bin\Debug\Guess_Who.pdb
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlMaterias.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlRanking.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlFeedback.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlResultado.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlRespostaCaso.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlPerguntaCaso.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlCaso.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlIntrodução.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlMenuInicial.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\Guess_Who.Properties.Resources.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlPerguntaBasica.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.tlRegras.resources
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\PitangaBrasil.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\Guess_Who.exe
+C:\Users\carlo\source\repos\Guess_Who\obj\Debug\Guess_Who.pdb
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlMaterias.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlRanking.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlFeedback.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlResultado.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlRespostaCaso.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlPerguntaCaso.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlCaso.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlIntrodução.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlPerguntaBasica.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\PitangaBrasil.exe.config
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\PitangaBrasil.exe
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\PitangaBrasil.pdb
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.Properties.Resources.resources
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.exe
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.pdb
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlMenuInicial.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\bin\Debug\PitangaBrasil.exe.config
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\bin\Debug\PitangaBrasil.exe
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\bin\Debug\PitangaBrasil.pdb
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.csprojAssemblyReference.cache
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlMaterias.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlRanking.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlFeedback.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlResultado.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlRespostaCaso.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlPerguntaCaso.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlCaso.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlIntrodução.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlMenuInicial.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.Properties.Resources.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlPerguntaBasica.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.tlRegras.resources
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.csproj.GenerateResource.cache
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.csproj.CoreCompileInputs.cache
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.exe
+E:\vivian\Downloads\Revisões\PitangaBrasil_Rev8_V16\obj\Debug\PitangaBrasil.pdb
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\PitangaBrasil.exe.config
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\PitangaBrasil.exe
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\PitangaBrasil.pdb
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\Google.Protobuf.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\MySql.Data.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\Renci.SshNet.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\System.Buffers.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\System.Memory.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\Zstandard.Net.dll
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\Google.Protobuf.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\MySql.Data.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\Renci.SshNet.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\System.Buffers.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\System.Memory.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.csprojAssemblyReference.cache
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlMaterias.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlRanking.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlFeedback.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlResultado.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlRespostaCaso.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlPerguntaCaso.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlCaso.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlIntrodução.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlMenuInicial.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.Properties.Resources.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.tlPerguntaBasica.resources
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.csproj.GenerateResource.cache
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.csproj.CoreCompileInputs.cache
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.csproj.CopyComplete
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.exe
+C:\Users\lbombassei\Documents\Meus Projetos Lenovo\PitangaBrasil_Rev15_V16\PitangaBrasil_Rev15_V16\obj\Debug\PitangaBrasil.pdb
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\Google.Protobuf.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\MySql.Data.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\Renci.SshNet.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\System.Buffers.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\System.Memory.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\Zstandard.Net.dll
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\Google.Protobuf.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\MySql.Data.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\Renci.SshNet.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\System.Buffers.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\System.Memory.xml
+C:\Users\carlo\source\repos\PitangaBrasil\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.csproj.CopyComplete
+C:\Users\carlo\source\repos\PitangaBrasil\obj\Debug\PitangaBrasil.tlPlay.resources
