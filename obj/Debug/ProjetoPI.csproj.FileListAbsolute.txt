@@ -1,0 +1,36 @@
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.csprojAssemblyReference.cache
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.CadAlunos.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.CadFunc.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.ConsAlunos.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.ConsFunc.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.Menu.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\bin\Debug\ProjetoPI.exe.config
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\bin\Debug\ProjetoPI.exe
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\bin\Debug\ProjetoPI.pdb
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.exe
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\obj\Debug\ProjetoPI.pdb
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\bin\Debug\bdEstSaberDataSet.Designer.cs
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\bin\Debug\bdEstSaberDataSet.xsc
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\bin\Debug\bdEstSaberDataSet.xsd
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\ProjetoPI\bin\Debug\bdEstSaberDataSet.xss
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\bin\Debug\bdEstSaberDataSet.Designer.cs
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\bin\Debug\bdEstSaberDataSet.xsc
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\bin\Debug\bdEstSaberDataSet.xsd
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\bin\Debug\bdEstSaberDataSet.xss
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\bin\Debug\ProjetoPI.exe.config
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\bin\Debug\ProjetoPI.exe
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\bin\Debug\ProjetoPI.pdb
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.csprojAssemblyReference.cache
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.CadAlunos.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.CadFunc.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.ConsAlunos.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.ConsFunc.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.Menu.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.exe
+C:\Users\Marangoni\Documents\Claudia\PI 2º semestre\PI - 2º sem\Grupo 8 - PI - Maria Claudia\ProjetoPI - Código C# - Grupo 8\obj\Debug\ProjetoPI.pdb
