@@ -1,0 +1,178 @@
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\source\repos\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_funcionario.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_funcionario.resources
+C:\Users\conti\Desktop\odio\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_funcionario.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\aaaa\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_funcionario.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Cadastrar_Treinamento.resources
+C:\Users\conti\Desktop\interface aqui\interface semipronta\AppPibOM\interface semipronta\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_Projetos.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_funcionario.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_Projetos.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Cadastrar_Treinamento.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\AppPibOM\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_funcionario.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Sub_form.Cadastrar_Projetos.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Forms.Cadastrar_Treinamento.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\Desktop\iconesapp\FrontVersaoPintada\AppPibOM\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\frontEnd\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\ultimate\InterfaceFinal\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\bin\Debug\AppPibOM.exe.config
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\bin\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\bin\Debug\AppPibOM.pdb
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csprojAssemblyReference.cache
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Funcionarios.resources
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Home.resources
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Forms.Projetos.resources
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Tela_admin.resources
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Tela_login.resources
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Properties.Resources.resources
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.Treinamentos.resources
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csproj.GenerateResource.cache
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CoreCompileInputs.cache
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.csproj.CopyComplete
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.exe
+C:\Users\conti\Desktop\projetogits\VersaoFinal\AppPibOM\obj\Debug\AppPibOM.pdb
